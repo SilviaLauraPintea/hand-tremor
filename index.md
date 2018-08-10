@@ -1,4 +1,4 @@
-# Hand-tremor frequency estimation in videos
+### Hand-tremor frequency estimation in videos
 
 This dataset was created as part of a larger study on developing patient-friendly techniques for objective quantification of motor (dys)function in patients with neurological disorders. 
 
@@ -9,7 +9,7 @@ data, or in the decision to submit the dataset or related manuscripts for public
 
 ________________
 
-Here we provide the [dataset documentation](https://github.com/SilviaLauraPintea/hand-tremor/TIM-Tremor.pdf).
+The dataset documentation can be found [here](https://github.com/SilviaLauraPintea/hand-tremor/TIM-Tremor.pdf).
 
 For each patient recording we provide a directory following the naming convention: 
 *T0xx [Left/Right]*, where T0xx denotes a given recording number, and Left/Right indicates the mirrored arm on which the accelerometers were positioned. 
@@ -45,17 +45,14 @@ We provide a labeling file: *[TIM-tremor-labeling.csv](https://github.com/Silvia
   3. Tremor rating ranging from 0 to 10 of the right arm of the patient.
   4. Five classes diagnosis: 0 - No convincing tremor, 1 - Parkinsonian tremor, 2 - Essential tremor, 3 - Dystonic tremor, 4 - Functional tremor, and 5 - Other (note: multiple labels can be present in one recording).
 ```
-### Obtaining the data:
+### Obtaining the data
 
-```markdown
 1. Download, fill out, and sign the agreement [form](https://github.com/SilviaLauraPintea/hand-tremor/agreement_form.pdf).
 *Note:* The person signing the agreement must hold a permanent position at an academic institution.
 
 2. Using the institutional e-mail address, please send an e-mail to *P.J.M.van_Schaik-Bank [at] lumc.nl*, including the purpose of usage of the *TIM-Tremor* dataset, and the signed agreement form.
 
 3. Once your request is processed, you will receive the download information via your institutional e-mail address.
-
-```
 
 ### Citation
 
