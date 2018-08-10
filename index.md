@@ -35,7 +35,7 @@ Within each recording directory for every task, we store:
   Columns 4 and 8 of the accelerometer recordings should be ignored, because there was no input on these channels. Column 9 should also be ignored, it contains a digital value that was not used (and therefore not properly set/meaningful).
 ```
 
-We provide a labeling file: *[TIM-tremor-labeling.csv](https://github.com/SilviaLauraPintea/hand-tremor/blob/master/TIM-tremor-labeling.csv)*, containing for every patient recording the following information, in “comma-separated” format:
+We provide a labeling file: *[TIM-tremor-labeling.csv](https://github.com/SilviaLauraPintea/hand-tremor/blob/master/TIM-Tremor-labeling.csv)*, containing for every patient recording the following information, in “comma-separated” format:
 
 ```markdown
   1. The arm, as displayed in the video, on which the accelerometers are positioned.
