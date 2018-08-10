@@ -49,7 +49,7 @@ We provide a labeling file: *[TIM-tremor-labeling.csv](https://github.com/Silvia
 
 1. Download, fill out, and sign the agreement [form](https://github.com/SilviaLauraPintea/hand-tremor/agreement_form.pdf).
 
-*Note:* The person signing the agreement must hold a permanent position at an academic institution.
+  *Note:* The person signing the agreement must hold a permanent position at an academic institution.
 
 2. Using the institutional e-mail address, please send an e-mail to *P.J.M.van_Schaik-Bank [at] lumc.nl*, including the purpose of usage of the *TIM-Tremor* dataset, and the signed agreement form.
 
