@@ -3,10 +3,7 @@
 
 This dataset was created as part of a larger study on developing patient-friendly techniques for objective quantification of motor (dys)function in patients with neurological disorders. 
 
-This work was supported by the Netherlands Organisation for Scientific Research (NWO) [Technology in Motion research programme, project 628.004.001]. 
-
-The funding party played no role in the study design, in the collection, analysis and interpretation of
-data, or in the decision to submit the dataset or related manuscripts for publication.
+This work was supported by the Netherlands Organisation for Scientific Research (NWO) [Technology in Motion research programme, project 628.004.001](https://tim.lumc.nl/site/en/home/). The funding party played no role in the study design, in the collection, analysis and interpretation of data, or in the decision to submit the dataset or related manuscripts for publication.
 
 ________________
 
@@ -19,7 +16,7 @@ Within each patient directory, a set of subdirectories are found, containing the
 Within each recording directory for every task, we store:
 
 ```markdown
-1. The RGB video segment: <b>kinect.avi</b>.
+1. The RGB video segment: *kinect.avi*.
   - Sampling rate: 30 frames/second.
   - Size: 1920 px × 1080 px.
   
