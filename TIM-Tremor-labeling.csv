@@ -1,0 +1,56 @@
+Recording ,Accelerometer arm (mirrored) ,Tremor rating left arm (0-10),Tremor rating right arm (0-10),"Diagnosis (0 - No convincing tremor, 1 - Parkinsonian tremor, 2 - Essential tremor, 3 - Dystonic tremor, 4 - Functional tremor,  and 5 - Other)"
+T001,Left,1,1,0 - No convincing tremor
+T002,Left,0,1,3 - Dystonic tremor
+T003,Left,0,1,0 - No convincing tremor
+T004,Left,0,1,1 - Parkinsonian tremor
+T005,Right,0,0,2 - Essential tremor
+T006,Left,0,1,2 - Essential tremor
+T007,Right,0,0,0 - No convincing tremor
+T008,Right,7,3,2 - Essential tremor
+T009,Left,0,1,5- Other (myoclonus plus slight tremor )
+T010,Right,2,1,3 - Dystonic tremor
+T011,Right,2,1,"2 - Essential tremor, 4 - Functional tremor"
+T012,Left,0,4,1 - Parkinsonian tremor
+T013,Left,1,2,1 - Parkinsonian tremor
+T014,Right,7,1,1 - Parkinsonian tremor
+T015,Left,2,3,"2 - Essential tremor,  4 - Functional tremor"
+T016,Left,2,3,5 - Other (atypical tremor)
+T017,Right,0,0,5 - Other (polyminimyoclonus with possible dystonia)
+T018,Left,1,1,5 - Other (myoclonus)
+T019,Left,1,0,3 - Dystonic tremor
+T020,Left,0,2,1 - Parkinsonian tremor
+T021,Left,1,2,"5 - Other (insufficient to characterize, possible essential tremor)"
+T022,Right,2,1,1 - Parkinsonian tremor
+T023,Right,0,1,2 - Essential tremor
+T024,Left,3,6,1 - Parkinsonian tremor
+T025,Left,0,0,"0 - No convincing tremor (jaw, not hand/arm)"
+T026,Left,0,1,2 - Essential tremor
+T027,Right,0,1,2 - Essential tremor
+T028,Right,0,0,2 - Essential tremor
+T029,Left,0,0,3 - Dystonic tremor
+T030,Right,1,0,3 - Dystonic tremor
+T031,Left,0,1,3 - Dystonic tremor
+T032,Right,1,3,3 - Dystonic tremor
+T033,Left,0,1,5 - Other (no indication for specific pathology)
+T034,Left,1,1,5 - Other (myclonus with postural tremor)
+T035,Left,1,0,5 - Other (polyminimyoclonus)
+T036,Left,1,1,3 - Dystonic tremor
+T037,Right,1,1,4 - Functional tremor (with myoclonus)
+T038,Left,0,0,"5 - Other (insufficient to characterize, possible essential tremor)"
+T039,Right,1,1,3 - Dystonic tremor
+T040,Right,2,0,5 - Other (polyminimyoclonus)
+T041,Left,0,1,"5 - Other (complex combination of postural action tremor, myoclonus and dystonia)"
+T042,Left,1,3,3 - Dystonic tremor
+T043,Right,2,0,4 - Functional tremor
+T044,Left,3,1,5 - Other (myoclonic dystonia)
+T045,Left,1,1,2 - Essential tremor
+T046,Left,1,0,3 - Dystonic tremor
+T047,Left,0,0,"4 - Functional tremor, 2 - Essential tremor"
+T048,Right,0,0,4 - Dystonic tremor (task-related)
+T049,Left,1,0,0 - No convincing tremor
+T050,Left,0,0,2 - Essential tremor
+T051,Left,0,2,4 - Functional tremor
+T052,Left,2,2,2 - Essential tremor
+T053,Left,1,2,"5 - Other (insufficient to characterize, postural tremor)"
+T054,Left,0,3,4 - Functional tremor
+T055,Left,0,4,4 - Functional tremor
